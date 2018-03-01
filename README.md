@@ -1,2 +1,2 @@
-# Pixel-Art-Maker
+# Mockup to Article
 First Udacity Project
